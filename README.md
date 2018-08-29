@@ -10,10 +10,18 @@ Content
 ---
 * Tomato1: dataset.
 * tomato-prediction: to predict the tomato yield.
-  - load 
+  - load datasets: gain the original dataset.
+  - visualization: analyze the relationship between growth factors 
+  - feature selection: remove features with low importance
+  - nomaliza: make each feature have the same impact
+  - PCA: dimensionality reduction
+  - split train and test: dividing data sets
+  - prediction: prediction with different model
+  - Model Compare: compare different model
+  
 
 Installation
 ---
-The following packages need to be installed on your system. They are all available on notebook: numpy, pandas, matplotlib, seaborn, sklearn
+The following packages need to be installed on your system. They are all available on notebook: numpy, pandas, matplotlib, seaborn, sklearn.
 
 
