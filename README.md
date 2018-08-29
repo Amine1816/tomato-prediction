@@ -1,13 +1,14 @@
 # tomato-prediction
 
 ---
-- 目的：根据番茄的各种生长因素预测其产量。
-- 大家可以自由使用，欢迎分享不同想法。
+- Purpose: The yield is predicted based on various growth factors of tomato.
+- You are free to use, change and distribute it.
 
 ---
 
 内容：
-* Tomato1: 所用数据集
-* tomato-prediction: 代码实现
+---
+* Tomato1: dataset.
+* tomato-prediction: to predict the tomato yield.
 
 
