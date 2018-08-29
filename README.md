@@ -6,9 +6,13 @@
 
 ---
 
-内容：
+Content
 ---
 * Tomato1: dataset.
 * tomato-prediction: to predict the tomato yield.
+
+Installation
+---
+The following packages need to be installed on your system. They are all available on notebook: numpy, pandas, matplotlib, seaborn, sklearn
 
 
