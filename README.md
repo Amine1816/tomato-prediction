@@ -17,7 +17,7 @@ Content
   - PCA: dimensionality reduction
   - split train and test: dividing data sets
   - prediction: prediction with different model
-  - Model Compare: compare different model
+  - model comparison: compare different model
   
 
 Installation
